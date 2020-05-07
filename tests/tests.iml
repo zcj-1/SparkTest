@@ -12,5 +12,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming-kafka-0-10_2.11:2.2.0.cloudera3" level="project" />
   </component>
 </module>
